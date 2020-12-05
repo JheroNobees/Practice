@@ -1,0 +1,13 @@
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.exe
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.deps.json
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.runtimeconfig.json
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.runtimeconfig.dev.json
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.dll
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\bin\Debug\netcoreapp3.1\Practice103.pdb
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.csprojAssemblyReference.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.AssemblyInfoInputs.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.AssemblyInfo.cs
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.csproj.CoreCompileInputs.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.dll
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.pdb
+C:\Users\Jhe Ro\OneDrive\Desktop\My AwesomeProgram\Practice103\obj\Debug\netcoreapp3.1\Practice103.genruntimeconfig.cache
